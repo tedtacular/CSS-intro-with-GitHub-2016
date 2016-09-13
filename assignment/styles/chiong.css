@@ -23,28 +23,28 @@ footer {
     background: #703030
 }
 aside {
-    background: #C77966
+    background: #E3CDA4
 }
 figure {
-    background: #E3CDA4
+    background: #C77966
 }
 
 /* add your pseudo classes below this line */
 
 a:link {
-    color: #1B1D26
+    color: #FBF7E4
 }
 a:visited {
-    color: #425955
+    color: #644D52
 }
 a:focus {
-    color: #778C7A
+    color: #F3E59A
 }
 a:hover {
-    color: #F1F2D8
+    color: #F3B59B
 }
 a:active {
-    color: #BFBD9F
+    color: #F29C9C
 }
 
 footer a:link {
